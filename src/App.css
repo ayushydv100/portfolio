@@ -704,6 +704,10 @@ input[type="checkbox"] {
 }
 
 @media screen and (max-width: 1200px) {
+  .skills--section--heading {
+    padding-bottom: 35px;
+  }
+
   .mobile-padding {
     margin: 0px;
     padding: 40px;
