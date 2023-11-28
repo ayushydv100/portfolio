@@ -370,6 +370,7 @@ h2 {
 .portfolio--section--card--content {
   display: flex;
   padding: 32px;
+  padding-top: 0;
   flex-direction: column;
   align-items: flex-start;
   gap: 32px;
@@ -710,6 +711,18 @@ input[type="checkbox"] {
   .mobile-padding-high {
     margin: 0px;
     padding: 60px;
+  }
+
+  .hero--section--img {
+    padding-top: 30px;
+  }
+
+  .portfolio--section--title {
+    padding-bottom: 20px;
+  }
+
+  .portfolio--section--card--content {
+    padding-top: 0;
   }
 
   .hero--section--content--box {
