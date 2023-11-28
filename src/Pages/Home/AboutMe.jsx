@@ -11,11 +11,11 @@ export default function AboutMe() {
             A computer science professional proficient in the MERN stack,
             utilizing NodeJS and ExpressJS for server-side scripting, MongoDB
             for database management, and ReactJS for creating interactive user
-            interfaces. In addition, I possess a strong foundation in Java and
-            MySQL, enhancing my capabilities in server-side development and
-            database management. Proficient in mobile app development using
-            Flutter, my diverse skill set positions me effectively for
-            challenging roles in the dynamic field of software development.
+            interfaces. Complemented by a strong foundation in Java and MySQL,
+            enhancing my capabilities in server-side development and database
+            management. Also proficient in mobile app development using Flutter.
+            My diverse skill set positions me effectively for challenging roles
+            in the dynamic field of software development.
           </p>
         </div>
       </div>
