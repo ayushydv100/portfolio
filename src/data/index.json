@@ -1,0 +1,54 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Backend Development",
+      "description": "Proficient in Node.js and Express.js, crafting robust server-side applications and RESTful APIs."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Frontend Development",
+      "description": "Skilled in React.js, building dynamic user interfaces using JavaScript and Node.js."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Database Management",
+      "description": "Designing efficient data storage systems with SQL and NoSQL databases."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Version Control",
+      "description": "Git user, ensuring systematic code tracking and collaboration across diverse development projects."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "ShopWave",
+      "description": "A powerful, full-stack e-commerce project using the MERN stack. This project provides everything you need to build a modern online store, from product management and shopping cart functionality to user authentication.",
+      "link": "View In Github",
+      "openLink": "https://github.com/ayushydv100/E-commerce-fullstack"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "ToDo App",
+      "description": "A Todo App built with the MERN stack (MongoDB, Express, React, Node.js). It utilizes all CRUD (Create, Read, Update, Delete) operations for seamless task management. Manage tasks, edit them or delete them when completed, and stay organized.",
+      "link": "View In Github",
+      "openLink": "https://github.com/ayushydv100/todo-mern"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Spotify Clone",
+      "description": "This project is a React.js-based Spotify clone, featuring a frontend developed with Material-UI. Utilizing data fetched from the Spotify API, the clone offers a visually appealing and responsive user interface.",
+      "link": "View In Github",
+      "openLink": "https://github.com/ayushydv100/spotify-clone"
+    }
+  ]
+}
