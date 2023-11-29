@@ -378,6 +378,7 @@ h2 {
 }
 .portfolio--section--title {
   color: var(--heading-color);
+  padding-bottom: 10px;
 }
 .portfolio--link {
   text-decoration: none;
