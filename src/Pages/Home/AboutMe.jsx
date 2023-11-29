@@ -7,7 +7,7 @@ export default function AboutMe() {
       <div className="hero--section--content--box about--section--box">
         <div className="hero--section--content">
           <h1 className="skills-section--heading">About Me</h1>
-          <p className="hero--section-description">
+          <p className="hero--section-description about-description">
             A computer science professional proficient in the MERN stack,
             utilizing NodeJS and ExpressJS for server-side scripting, MongoDB
             for database management, and ReactJS for creating interactive user
