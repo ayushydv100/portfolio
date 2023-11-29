@@ -1,7 +1,7 @@
 export default function HeroSection() {
   const handleDownload = () => {
     const link =
-      "https://drive.google.com/file/d/1PnaeEOfhr_N2gvYsc9mqxKqrPE6vKM3C/view?usp=drive_link";
+      "https://drive.google.com/file/d/1uU-Vw3HLTV4Aj1Y4lcPtmsh4JxGanMD4/view?usp=drive_link";
     window.open(link, "_blank");
   };
   //direct download cv link = "https://download941.mediafire.com/inof095qryzgCedzUm0ayIwY20Zd1ChTru7qvy6CwwJEGhPlScmtlTXKrTpLTSGJOSy6k44TTOQe53KkUf_HMbP_tMm6WZr_36tbmUpEQl1529oOIm7yCQ4jPsoCfW3UfI-h73IRDeWiJWKAr_FD1cFuJT5feTZWE1vt2HPvC3NApuTu/tu1jg200dc3t3g0/AyushYadavResume.pdf";
