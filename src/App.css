@@ -741,6 +741,14 @@ input[type="checkbox"] {
     text-align: center;
   }
 
+  .skills--section--card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
   h1 {
     font-size: xx-large;
   }
