@@ -7,6 +7,17 @@ body {
   -moz-osx-font-smoothing: "Roboto", sans-serif;
   font-style: normal;
 }
+
+/* html {
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+}
+
+section {
+  height: 100vh;
+  scroll-snap-align: center;
+} */
+
 h1,
 h2,
 h3,

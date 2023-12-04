@@ -37,10 +37,10 @@
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "ToDo App",
-      "description": "A Todo App built with the MERN stack (MongoDB, Express, React, Node.js). It utilizes all CRUD (Create, Read, Update, Delete) operations for seamless task management. Manage tasks, edit them or delete them when completed, and stay organized.",
+      "title": "Stories Hub",
+      "description": "A Node.js app with Express, HBS, MongoDB, and Google OAuth. Create, edit, and publish public or private stories. Explore diverse content, search efficiently, and click on user profiles for all their posted stories.",
       "link": "View In Github",
-      "openLink": "https://github.com/ayushydv100/todo-mern"
+      "openLink": "https://github.com/ayushydv100/stories-hub"
     },
     {
       "id": "3",
